@@ -1,0 +1,1408 @@
+[
+  {
+    "id": "tx-candle-01",
+    "createdAt": "2026-08-03",
+    "teaser": {
+      "category": "eCommerce",
+      "industry": "Home goods",
+      "tagline": "Hand-poured soy candles with 41 percent repeat buyers and verified Shopify payouts",
+      "location": { "city": "Austin", "state": "TX" },
+      "platform": "Shopify",
+      "yearsInBusiness": 4,
+      "reasonForSale": "Relocating to Colorado",
+      "revenueRange": "$80K–$90K",
+      "profitRange": "$20K–$30K",
+      "growthTrend": "up",
+      "valuation": {
+        "low": 55000,
+        "high": 75000,
+        "confidence": "High",
+        "confidenceNote": "Revenue and refunds were pulled directly from the connected Shopify account, and six comparable candle brands sold in the last 18 months anchor the multiple."
+      },
+      "metrics": {
+        "revenueTTM": 84000,
+        "grossMarginPct": 62,
+        "sdeMarginPct": 30,
+        "revenueStreams": [
+          { "name": "Shopify direct-to-consumer", "sharePct": 68 },
+          { "name": "Wholesale to boutiques", "sharePct": 22 },
+          { "name": "Markets and pop-ups", "sharePct": 10 }
+        ],
+        "yoyGrowthPct": 18,
+        "hoursPerWeek": 20
+      },
+      "valueDrivers": [
+        "41 percent of orders come from returning customers, which supports the upper end of the range",
+        "Top wholesale account is 9 percent of revenue, so no single buyer dominates",
+        "Meta ad spend runs about 9 percent of revenue; margins depend on holding that ratio",
+        "Single fragrance-oil supplier; a substitute has been tested but not switched"
+      ]
+    },
+    "confidential": {
+      "businessName": "Barton Wick Co.",
+      "url": "bartonwick.com",
+      "memo": {
+        "confirmedOn": "2026-08-11",
+        "executiveSummary": "Barton Wick Co. is a four-year-old Austin candle brand selling 8 oz and 12 oz soy candles through its own Shopify store, 14 Texas boutiques, and a monthly market schedule. 2025 revenue was $84,000 with owner earnings of $25,200, and revenue grew 18 percent year over year on the strength of a growing email list. The owner is relocating to Colorado and is asking $64,000.",
+        "businessOverview": "The catalog is 11 core scents plus two seasonal drops, all poured in a 400 sq ft rented studio off South Lamar using Golden Brands 464 wax and vessels from a Dallas importer. Orders ship through Shopify with Pirate Ship labels; wholesale accounts order through Faire and reorder on roughly a six-week cycle. The owner pours and labels with one part-time helper who works 10 hours a week during the fourth quarter. Klaviyo runs a 6,800-subscriber list that drives about a third of online orders.",
+        "industryAndMarket": "Austin supports a dense gift-boutique and farmers-market scene, and locally made home goods sell well to the city's steady flow of new residents. Candle demand is seasonal, with November and December producing roughly 35 percent of annual revenue, so cash planning around the fourth quarter matters.",
+        "growthOpportunities": [
+          "Open the Faire wholesale listing to out-of-state boutiques; current accounts are all within Texas",
+          "Add a candle subscription in Shopify to lift the 41 percent repeat rate further",
+          "Introduce refill pours for existing vessels, which the owner has tested at a 70 percent margin"
+        ],
+        "transitionPlan": "The owner will provide four weeks of in-studio training covering pouring, labeling, and the Faire and Klaviyo accounts, and will introduce the buyer to the wax and vessel suppliers. Shopify, Meta, and domain accounts transfer at closing; the studio lease is month to month and can be assumed.",
+        "askingPrice": 64000,
+        "keyFigures": [
+          { "label": "Revenue (TTM)", "value": "$84,000", "source": "Shopify payouts, Jan–Dec 2025" },
+          { "label": "Owner earnings (SDE)", "value": "$25,200", "source": "2025 Schedule C with add-backs" },
+          { "label": "Gross margin", "value": "62%", "source": "Shopify cost-of-goods report, 2025" },
+          { "label": "YoY growth", "value": "+18%", "source": "Shopify annual sales comparison, 2024 vs 2025" },
+          { "label": "Asking price", "value": "$64,000", "source": "Seller-set, within Conquire range" }
+        ],
+        "flaggedGaps": [],
+        "sources": [
+          "Shopify payouts export, Jan–Dec 2025",
+          "2025 Schedule C",
+          "Faire wholesale order history, 2024–2025",
+          "Studio sublease agreement"
+        ]
+      },
+      "customerProfiles": [
+        "Women 28–45 in Austin and Dallas buying gifts and home scent, average order $46",
+        "Texas gift boutiques ordering 24–48 units every six weeks through Faire",
+        "Corporate gifting buyers placing two to three bulk orders a year"
+      ],
+      "revenues": [
+        { "year": 2023, "amount": 52000 },
+        { "year": 2024, "amount": 71200 },
+        { "year": 2025, "amount": 84000 }
+      ],
+      "expenses": [
+        { "category": "Wax, wicks, vessels, and fragrance", "amount": 31900 },
+        { "category": "Shipping and packaging", "amount": 9800 },
+        { "category": "Shopify, apps, and payment fees", "amount": 3400 },
+        { "category": "Meta and Google ads", "amount": 7200 },
+        { "category": "Market booth fees", "amount": 2600 },
+        { "category": "Part-time pour help", "amount": 3900 }
+      ],
+      "ownership": "Single owner, 100%",
+      "headwinds": [
+        "Fragrance-oil costs rose 11 percent in 2025 and have not been fully passed through",
+        "Fourth-quarter concentration means a weak holiday season hits annual earnings hard",
+        "Hand-pouring caps output near 450 units a week without a second pourer"
+      ],
+      "tailwinds": [
+        "Email list grew 38 percent in 2025 and now drives a third of web orders",
+        "Three boutiques requested exclusives for 2026, indicating wholesale demand exceeds supply",
+        "Austin's population growth keeps adding local gift buyers"
+      ]
+    }
+  },
+  {
+    "id": "tx-pettreat-02",
+    "createdAt": "2026-08-07",
+    "teaser": {
+      "category": "eCommerce",
+      "industry": "Pet treats",
+      "tagline": "Single-ingredient dehydrated dog treats with 1,900 Etsy reviews and growing subscriptions",
+      "location": { "city": "Dallas", "state": "TX" },
+      "platform": "Etsy",
+      "yearsInBusiness": 3,
+      "reasonForSale": "Starting a family",
+      "revenueRange": "$40K–$50K",
+      "profitRange": "$10K–$15K",
+      "growthTrend": "up",
+      "valuation": {
+        "low": 26000,
+        "high": 38000,
+        "confidence": "Medium",
+        "confidenceNote": "Etsy sales are verified through the connected shop, but the Shopify subscription store is self-reported and only three comparable treat brands were available."
+      },
+      "metrics": {
+        "revenueTTM": 46000,
+        "grossMarginPct": 58,
+        "sdeMarginPct": 28,
+        "revenueStreams": [
+          { "name": "Etsy shop", "sharePct": 61 },
+          { "name": "Shopify subscriptions", "sharePct": 27 },
+          { "name": "Local pet boutiques", "sharePct": 12 }
+        ],
+        "yoyGrowthPct": 24,
+        "hoursPerWeek": 18
+      },
+      "valueDrivers": [
+        "A 4.9 rating across 1,900 Etsy reviews lowers the cost of winning new buyers",
+        "Subscription revenue grew from 9 to 27 percent of sales in 12 months",
+        "Etsy accounts for 61 percent of revenue, which carries platform-policy risk",
+        "Cottage-food status limits channels; a commercial kitchen would be needed to scale wholesale"
+      ]
+    },
+    "confidential": {
+      "businessName": "Trinity Tail Treats",
+      "url": "trinitytailtreats.com",
+      "memo": {
+        "confirmedOn": "2026-08-16",
+        "executiveSummary": "Trinity Tail Treats dehydrates chicken, beef liver, and sweet potato treats in a Dallas home kitchen under the Texas cottage-food law and sells them through Etsy, a Shopify subscription store, and four local pet boutiques. 2025 revenue was $46,000, up 24 percent, with owner earnings of about $12,900. The owner is expecting a child and wants to hand off before the fourth quarter.",
+        "businessOverview": "Production runs three days a week on four Excalibur dehydrators with proteins sourced from a Grand Prairie wholesale butcher. The Etsy shop lists 14 products and ships via USPS Ground Advantage; the Shopify store uses Recharge for monthly boxes with 212 active subscribers as of July 2026. Packaging is kraft stand-up pouches with labels printed in house on a Rollo. The owner does everything, including weekly boutique drop-offs in Lakewood and Bishop Arts.",
+        "industryAndMarket": "Dallas–Fort Worth has one of the highest dog-ownership rates among large metros, and single-ingredient treats keep taking share from grain-heavy biscuits. Competition on Etsy is heavy, but the shop's review count places it in the top tier of its category search results.",
+        "growthOpportunities": [
+          "Move to a rented commercial kitchen to unlock wholesale and Amazon, which the cottage-food permit currently prohibits",
+          "Raise subscription pricing; the $34 monthly box has not changed since launch in 2024",
+          "Add a cat treat line, requested in 40-plus customer messages the owner has saved"
+        ],
+        "transitionPlan": "Three weeks of hands-on training covering dehydrating schedules, Etsy listing management, and Recharge, plus introductions to the butcher and the four boutique owners. The buyer will need to register their own cottage-food operation in their county before the Etsy and Shopify accounts transfer.",
+        "askingPrice": 32000,
+        "keyFigures": [
+          { "label": "Revenue (TTM)", "value": "$46,000", "source": "Etsy and Shopify payouts, Jan–Dec 2025" },
+          { "label": "Owner earnings (SDE)", "value": "$12,900", "source": "Seller-prepared P&L, unverified" },
+          { "label": "Gross margin", "value": "58%", "source": "Seller-prepared P&L, unverified" },
+          { "label": "YoY growth", "value": "+24%", "source": "Etsy Stats annual view, 2024 vs 2025" },
+          { "label": "Asking price", "value": "$32,000", "source": "Seller-set, within Conquire range" }
+        ],
+        "flaggedGaps": [
+          "2025 Schedule C not yet uploaded",
+          "Shopify payout export covers only Jan–Sep 2025"
+        ],
+        "sources": [
+          "Etsy Stats export, 2024–2025",
+          "Shopify payouts, Jan–Sep 2025",
+          "Recharge subscriber report, Jul 2026"
+        ]
+      },
+      "customerProfiles": [
+        "Dog owners nationwide finding the shop through Etsy search for single-ingredient treats",
+        "Dallas-area subscribers on the $34 monthly box, median tenure seven months",
+        "Independent pet boutiques in Lakewood and Bishop Arts reordering every two weeks"
+      ],
+      "revenues": [
+        { "year": 2023, "amount": 24500 },
+        { "year": 2024, "amount": 37100 },
+        { "year": 2025, "amount": 46000 }
+      ],
+      "expenses": [
+        { "category": "Proteins, produce, and packaging", "amount": 19300 },
+        { "category": "Etsy fees and offsite ads", "amount": 5600 },
+        { "category": "Shipping", "amount": 4900 },
+        { "category": "Cottage-food permit and dehydrator upkeep", "amount": 2100 },
+        { "category": "Shopify, Recharge, and label software", "amount": 1200 }
+      ],
+      "ownership": "Single owner, 100%",
+      "headwinds": [
+        "Etsy raised its transaction fee and offsite-ad take in 2025, compressing margin by about two points",
+        "Cottage-food rules block sales through wholesalers and across state lines",
+        "Protein prices are volatile; beef liver rose 18 percent last year"
+      ],
+      "tailwinds": [
+        "Subscription box retention is 81 percent month over month",
+        "Two boutiques have asked for a private-label version",
+        "Pet spending in DFW kept growing through 2025 despite broader retail softness"
+      ]
+    }
+  },
+  {
+    "id": "tx-coffee-03",
+    "createdAt": "2026-08-12",
+    "teaser": {
+      "category": "eCommerce",
+      "industry": "Specialty coffee roasting",
+      "tagline": "Subscription-led coffee roaster with 640 active subscribers and nine wholesale cafe accounts",
+      "location": { "city": "Houston", "state": "TX" },
+      "platform": "Shopify",
+      "yearsInBusiness": 6,
+      "reasonForSale": "Consolidating ventures",
+      "revenueRange": "$170K–$180K",
+      "profitRange": "$25K–$30K",
+      "growthTrend": "up",
+      "valuation": {
+        "low": 65000,
+        "high": 90000,
+        "confidence": "High",
+        "confidenceNote": "Shopify and Recharge data are verified through connected accounts, the 2025 return reconciles within 2 percent, and eight comparable roasters sold in the last two years."
+      },
+      "metrics": {
+        "revenueTTM": 176000,
+        "grossMarginPct": 46,
+        "sdeMarginPct": 16,
+        "revenueStreams": [
+          { "name": "Subscriptions", "sharePct": 48 },
+          { "name": "One-time web orders", "sharePct": 22 },
+          { "name": "Wholesale cafes", "sharePct": 30 }
+        ],
+        "yoyGrowthPct": 12,
+        "hoursPerWeek": 35
+      },
+      "valueDrivers": [
+        "Subscriptions provide 48 percent of revenue with 6 percent monthly churn",
+        "Largest wholesale cafe is 11 percent of revenue; losing it would hurt but not break the business",
+        "Owner earnings are a thin 16 percent of revenue because of roastery rent and labor",
+        "Green-coffee prices sit at multi-year highs, and the business has raised prices twice since 2024"
+      ]
+    },
+    "confidential": {
+      "businessName": "Bayou Ember Roasters",
+      "url": "bayouember.com",
+      "memo": {
+        "confirmedOn": "2026-08-20",
+        "executiveSummary": "Bayou Ember Roasters roasts about 1,100 lb a week on a 12-kilo Diedrich in a leased space in Houston's East End and sells through Shopify subscriptions, one-time web orders, and nine wholesale cafe accounts across Houston and Katy. 2025 revenue was $176,000, up 12 percent, with owner earnings near $28,200. The owner is consolidating into a separate cafe business and is asking $78,000 for the roasting operation including the roaster.",
+        "businessOverview": "Green coffee comes through two importers, Royal Coffee and Cafe Imports, with six to eight single origins and two blends in rotation. The Shopify store runs Recharge for 640 subscribers on two-week and four-week cadences; wholesale cafes order through a Shopify B2B form and receive weekly deliveries in the owner's van. A part-time roaster handles two roast days a week and a packer works Fridays. Cropster logs every roast profile, and the full profile library transfers with the sale.",
+        "industryAndMarket": "Houston's specialty-coffee market has expanded steadily, with independent cafes opening faster than they close in the Heights, Montrose, and EaDo. Direct-to-consumer subscription coffee is crowded nationally, but local roasters keep pricing power with cafes that want a Houston-roasted story on the menu.",
+        "growthOpportunities": [
+          "Add cold brew concentrate for the wholesale accounts, which three cafes have requested",
+          "Run a referral program through Recharge; subscriber acquisition is currently word of mouth only",
+          "Pursue five to ten more wholesale accounts, since roaster capacity is about 60 percent used"
+        ],
+        "transitionPlan": "The owner will stay on for six weeks to train on roast profiles, importer ordering, and Cropster, and will personally introduce the buyer to every wholesale account. The roastery lease has 22 months remaining and the landlord has agreed in writing to an assignment.",
+        "askingPrice": 78000,
+        "keyFigures": [
+          { "label": "Revenue (TTM)", "value": "$176,000", "source": "Shopify payouts, Jan–Dec 2025" },
+          { "label": "Owner earnings (SDE)", "value": "$28,200", "source": "2025 Form 1120-S with add-backs" },
+          { "label": "Gross margin", "value": "46%", "source": "Shopify cost-of-goods report plus importer invoices, 2025" },
+          { "label": "YoY growth", "value": "+12%", "source": "Shopify annual sales comparison, 2024 vs 2025" },
+          { "label": "Asking price", "value": "$78,000", "source": "Seller-set, within Conquire range" }
+        ],
+        "flaggedGaps": [],
+        "sources": [
+          "Shopify payouts export, Jan–Dec 2025",
+          "Recharge subscriber and churn report, Jul 2026",
+          "2025 Form 1120-S",
+          "Roastery lease and landlord assignment letter"
+        ]
+      },
+      "customerProfiles": [
+        "Houston-area households on a four-week subscription, average order $38",
+        "Independent cafes in the Heights, Montrose, and Katy ordering 20–60 lb weekly",
+        "Gift and holiday buyers ordering sampler boxes in November and December"
+      ],
+      "revenues": [
+        { "year": 2023, "amount": 128000 },
+        { "year": 2024, "amount": 157100 },
+        { "year": 2025, "amount": 176000 }
+      ],
+      "expenses": [
+        { "category": "Green coffee", "amount": 76400 },
+        { "category": "Roastery lease and utilities", "amount": 18000 },
+        { "category": "Packaging and shipping", "amount": 22300 },
+        { "category": "Shopify, Recharge, and payment fees", "amount": 8200 },
+        { "category": "Part-time roaster and packer", "amount": 19200 },
+        { "category": "Van delivery and marketing", "amount": 3700 }
+      ],
+      "ownership": "Single owner, 100%",
+      "headwinds": [
+        "Arabica futures hit decade highs in 2025, and the next price increase may test subscriber tolerance",
+        "Owner earnings depend on the owner personally driving wholesale deliveries two days a week",
+        "The Diedrich roaster is nine years old and will need a burner rebuild within two years"
+      ],
+      "tailwinds": [
+        "Subscriber count grew 19 percent in 2025 with no paid acquisition",
+        "Two new cafes opening in EaDo have signed letters of intent for 2026 supply",
+        "Wholesale prices were raised in March 2026 with no account losses"
+      ]
+    }
+  },
+  {
+    "id": "tx-vintage-04",
+    "createdAt": "2026-08-15",
+    "teaser": {
+      "category": "eCommerce",
+      "industry": "Vintage clothing resale",
+      "tagline": "Curated 1970s–90s vintage shop with 14,000 Depop followers and steady sell-through",
+      "location": { "city": "Denton", "state": "TX" },
+      "platform": "Depop",
+      "yearsInBusiness": 5,
+      "reasonForSale": "New full-time job",
+      "revenueRange": "$35K–$40K",
+      "profitRange": "$10K–$15K",
+      "growthTrend": "flat",
+      "valuation": {
+        "low": 21000,
+        "high": 31000,
+        "confidence": "Low",
+        "confidenceNote": "Figures are self-reported from Depop and eBay screenshots rather than connected accounts, and no tax return has been provided."
+      },
+      "metrics": {
+        "revenueTTM": 38000,
+        "grossMarginPct": 66,
+        "sdeMarginPct": 34,
+        "revenueStreams": [
+          { "name": "Depop", "sharePct": 58 },
+          { "name": "eBay", "sharePct": 30 },
+          { "name": "Pop-up markets", "sharePct": 12 }
+        ],
+        "yoyGrowthPct": 3,
+        "hoursPerWeek": 15
+      },
+      "valueDrivers": [
+        "14,000 Depop followers and a 4.9 rating transfer with the shop handle",
+        "Inventory of roughly 900 pieces is included at the seller's cost of about $6,000",
+        "Sourcing skill is owner-dependent; the buyer needs an eye for thrift and estate finds",
+        "Revenue has been flat for two years, limiting upside unless the buyer adds channels"
+      ]
+    },
+    "confidential": {
+      "businessName": "Fry Street Finds",
+      "url": "frystreetfinds.com",
+      "memo": {
+        "confirmedOn": "2026-08-24",
+        "executiveSummary": "Fry Street Finds is a Denton-based vintage resale shop selling 1970s through 1990s denim, western wear, and band tees through Depop, eBay, and monthly pop-ups near the UNT campus. 2025 revenue was $38,000, roughly flat, with owner earnings of about $12,900. The owner has accepted a full-time job and is asking $25,000 including inventory.",
+        "businessOverview": "Inventory is sourced from North Texas estate sales, the Goodwill outlet bins in Fort Worth, and two wholesale bale suppliers, then washed, repaired, photographed on a mannequin, and listed at about 60 pieces a week. Depop carries the most listings and the strongest following; eBay handles higher-ticket Levi's and Wrangler pieces. Stock lives in a 10x10 climate-controlled unit on Loop 288. The owner runs the whole operation solo with Vendoo for cross-listing.",
+        "industryAndMarket": "Secondhand apparel keeps outgrowing new apparel nationally, and Denton's two universities supply a steady stream of young buyers and sellers. Depop's 2025 fee changes shifted costs to buyers, which slightly dampened conversion on mid-priced items.",
+        "growthOpportunities": [
+          "Open a Whatnot live-selling channel, which similar shops report lifts weekly volume 20 to 30 percent",
+          "List on Grailed for the mens denim and workwear segment",
+          "Add a weekend booth at the Denton Community Market from April through November"
+        ],
+        "transitionPlan": "Two weeks of training on sourcing runs, photography setup, and Vendoo cross-listing, with the Depop and eBay handles transferring at closing. The storage-unit contract is month to month and the owner will introduce the buyer to both bale suppliers.",
+        "askingPrice": 25000,
+        "keyFigures": [
+          { "label": "Revenue (TTM)", "value": "$38,000", "source": "Seller-reported, unverified" },
+          { "label": "Owner earnings (SDE)", "value": "$12,900", "source": "Seller-reported, unverified" },
+          { "label": "Gross margin", "value": "66%", "source": "Seller-reported, unverified" },
+          { "label": "YoY growth", "value": "+3%", "source": "Depop and eBay sales screenshots, 2024 vs 2025" },
+          { "label": "Asking price", "value": "$25,000", "source": "Seller-set, within Conquire range" }
+        ],
+        "flaggedGaps": [
+          "2025 Schedule C not uploaded",
+          "Depop and eBay accounts not yet connected for verification"
+        ],
+        "sources": [
+          "Depop sales screenshots, 2024–2025",
+          "eBay Seller Hub screenshots, 2025",
+          "Inventory spreadsheet, Jul 2026"
+        ]
+      },
+      "customerProfiles": [
+        "Buyers 18–30 nationwide shopping Depop for western and band-tee pieces, average order $42",
+        "Collectors on eBay paying $80–$250 for vintage Levi's and Wrangler denim",
+        "UNT students at monthly pop-ups buying $15–$30 pieces"
+      ],
+      "revenues": [
+        { "year": 2023, "amount": 34000 },
+        { "year": 2024, "amount": 36900 },
+        { "year": 2025, "amount": 38000 }
+      ],
+      "expenses": [
+        { "category": "Inventory sourcing", "amount": 12900 },
+        { "category": "Depop and eBay fees", "amount": 4200 },
+        { "category": "Postage and shipping supplies", "amount": 5300 },
+        { "category": "Storage unit", "amount": 1900 },
+        { "category": "Photography and cross-listing software", "amount": 800 }
+      ],
+      "ownership": "Single owner, 100%",
+      "headwinds": [
+        "Revenue has not grown since 2024 and the owner's hours dropped as the job search began",
+        "Depop fee and algorithm changes directly affect reach",
+        "Good sourcing depends on local knowledge that takes time to rebuild"
+      ],
+      "tailwinds": [
+        "Follower base keeps growing without paid promotion",
+        "Western wear demand rose sharply across 2025 and 2026",
+        "Included inventory covers roughly four months of listings on day one"
+      ]
+    }
+  },
+  {
+    "id": "tx-3dprint-05",
+    "createdAt": "2026-08-19",
+    "teaser": {
+      "category": "eCommerce",
+      "industry": "3D-printed accessories",
+      "tagline": "Custom 3D-printed desk and cable accessories with 31 percent growth and low inventory",
+      "location": { "city": "Plano", "state": "TX" },
+      "platform": "Etsy",
+      "yearsInBusiness": 2,
+      "reasonForSale": "Burnout",
+      "revenueRange": "$25K–$30K",
+      "profitRange": "$10K–$12K",
+      "growthTrend": "up",
+      "valuation": {
+        "low": 17000,
+        "high": 24000,
+        "confidence": "Medium",
+        "confidenceNote": "Etsy sales are verified through the connected shop, but with only two years of history and four comparables the multiple is capped."
+      },
+      "metrics": {
+        "revenueTTM": 29000,
+        "grossMarginPct": 70,
+        "sdeMarginPct": 38,
+        "revenueStreams": [
+          { "name": "Etsy", "sharePct": 74 },
+          { "name": "Own Shopify site", "sharePct": 16 },
+          { "name": "Custom corporate orders", "sharePct": 10 }
+        ],
+        "yoyGrowthPct": 31,
+        "hoursPerWeek": 14
+      },
+      "valueDrivers": [
+        "Print-on-demand model means almost no finished inventory and low working capital",
+        "Nine Bambu Lab printers are included and are the main physical asset",
+        "Etsy carries 74 percent of revenue; a policy change would hurt",
+        "Designs are the owner's own files, so the catalog transfers cleanly"
+      ]
+    },
+    "confidential": {
+      "businessName": "Legacy Layer Prints",
+      "url": "legacylayer.co",
+      "memo": {
+        "confirmedOn": "2026-08-27",
+        "executiveSummary": "Legacy Layer Prints designs and prints desk organizers, headphone stands, and cable clips in a converted garage in Plano, selling mainly through Etsy with a smaller Shopify site and occasional corporate logo orders. 2025 revenue was $29,000, up 31 percent, with owner earnings around $11,000. The owner is burned out on nightly print queues and is asking $21,000 including the printer farm.",
+        "businessOverview": "The shop runs nine Bambu Lab P1S printers on a shelf system with PLA and PETG from Polymaker and Bambu, averaging 55 orders a week. All 38 products are the owner's Fusion 360 designs with color options the buyer chooses at checkout; print files and slicer profiles are organized in a shared drive. Etsy and Shopify orders feed into an Airtable queue and ship via Pirate Ship. There are no employees.",
+        "industryAndMarket": "Desk-setup and cable-management products sell to remote workers across the country, and Plano's corporate campuses supply the logo-order side. Consumer 3D printing has gotten cheaper and better, so competition on Etsy is rising, though the shop's review count and design catalog still rank well.",
+        "growthOpportunities": [
+          "Sell STL files as digital downloads for buyers who own printers",
+          "Pitch the corporate logo line to Plano and Frisco office managers; it is 10 percent of revenue with no outreach",
+          "Add Amazon Handmade, which the owner applied for but never listed on"
+        ],
+        "transitionPlan": "Two weeks of training on slicer profiles, printer maintenance, and the Etsy shop, with all design files handed over at closing. The printers and filament stock can be moved in one trip, and the Etsy and Shopify accounts transfer with the domain.",
+        "askingPrice": 21000,
+        "keyFigures": [
+          { "label": "Revenue (TTM)", "value": "$29,000", "source": "Etsy and Shopify payouts, Jan–Dec 2025" },
+          { "label": "Owner earnings (SDE)", "value": "$11,000", "source": "2025 Schedule C with add-backs" },
+          { "label": "Gross margin", "value": "70%", "source": "Filament invoices vs Etsy sales, 2025" },
+          { "label": "YoY growth", "value": "+31%", "source": "Etsy Stats annual view, 2024 vs 2025" },
+          { "label": "Asking price", "value": "$21,000", "source": "Seller-set, within Conquire range" }
+        ],
+        "flaggedGaps": [],
+        "sources": [
+          "Etsy Stats export, 2024–2025",
+          "Shopify payouts, Jan–Dec 2025",
+          "2025 Schedule C",
+          "Printer purchase receipts"
+        ]
+      },
+      "customerProfiles": [
+        "Remote workers nationwide buying $18–$45 desk accessories through Etsy",
+        "Gift buyers in November and December, roughly a third of annual orders",
+        "DFW office managers ordering 50–200 branded cable clips for onboarding kits"
+      ],
+      "revenues": [
+        { "year": 2023, "amount": 11800 },
+        { "year": 2024, "amount": 22100 },
+        { "year": 2025, "amount": 29000 }
+      ],
+      "expenses": [
+        { "category": "Filament and hardware", "amount": 6400 },
+        { "category": "Etsy fees and offsite ads", "amount": 4100 },
+        { "category": "Shipping", "amount": 3900 },
+        { "category": "Printer parts and maintenance", "amount": 2200 },
+        { "category": "Electricity and software", "amount": 1400 }
+      ],
+      "ownership": "Single owner, 100%",
+      "headwinds": [
+        "Printer uptime demands daily attention; the owner cites 2 a.m. nozzle clogs as the reason for selling",
+        "Low barrier to entry means copycat listings appear within weeks of a new product",
+        "Summer garage heat has caused PLA warping and required a portable AC"
+      ],
+      "tailwinds": [
+        "Revenue has grown every quarter since launch",
+        "Corporate order inquiries doubled in 2026 with no marketing",
+        "Digital-download sales would carry near-100 percent margin"
+      ]
+    }
+  },
+  {
+    "id": "az-repairkit-06",
+    "createdAt": "2026-08-23",
+    "teaser": {
+      "category": "eCommerce",
+      "industry": "Phone repair kits",
+      "tagline": "Amazon FBA brand of phone and tablet repair kits with 3,200 reviews",
+      "location": { "city": "Phoenix", "state": "AZ" },
+      "platform": "Amazon FBA",
+      "yearsInBusiness": 5,
+      "reasonForSale": "Focusing on a larger brand",
+      "revenueRange": "$110K–$120K",
+      "profitRange": "$18K–$20K",
+      "growthTrend": "down",
+      "valuation": {
+        "low": 30000,
+        "high": 46000,
+        "confidence": "Medium",
+        "confidenceNote": "Seller Central reports are verified through the connected account, but the two-year revenue decline and tariff exposure widen the range."
+      },
+      "metrics": {
+        "revenueTTM": 112000,
+        "grossMarginPct": 41,
+        "sdeMarginPct": 17,
+        "revenueStreams": [
+          { "name": "Amazon US", "sharePct": 83 },
+          { "name": "Walmart Marketplace", "sharePct": 11 },
+          { "name": "Own Shopify site", "sharePct": 6 }
+        ],
+        "yoyGrowthPct": -14,
+        "hoursPerWeek": 10
+      },
+      "valueDrivers": [
+        "3,200 reviews at 4.4 stars across 14 ASINs give durable search placement",
+        "Revenue has fallen two years running as cheaper listings undercut pricing",
+        "Product comes from a single Shenzhen supplier and is exposed to tariff changes",
+        "Owner time is only 10 hours a week; the business is nearly passive"
+      ]
+    },
+    "confidential": {
+      "businessName": "Sonoran Fix Kits",
+      "url": "sonoranfixkits.com",
+      "memo": {
+        "confirmedOn": "2026-09-01",
+        "executiveSummary": "Sonoran Fix Kits sells screwdriver sets, pry tools, adhesive strips, and model-specific screen-repair kits for iPhone, Samsung, and iPad through Amazon FBA, with smaller Walmart Marketplace and Shopify channels. 2025 revenue was $112,000, down 14 percent, with owner earnings of about $19,000. The owner is concentrating on a larger supplements brand and is asking $38,000 including about $11,000 of inventory at cost.",
+        "businessOverview": "Fourteen ASINs are manufactured by one Shenzhen supplier, shipped by sea to a Los Angeles freight forwarder, and sent into FBA in quarterly batches. Listings use branded packaging and A+ content, with Sponsored Products ads managed in Seller Central at a 12 percent ACoS. The owner spends about 10 hours a week on reorders, ad adjustments, and customer messages, with no employees. Walmart Marketplace and the Shopify site are fulfilled from the same FBA inventory through multi-channel fulfillment.",
+        "industryAndMarket": "Phone-repair kits are a mature Amazon category where overseas sellers list the same tools at lower prices, so review counts and bundles are the main defense. Right-to-repair laws passed in several states in 2024 and 2025 keep do-it-yourself repair searches growing even as pricing compresses.",
+        "growthOpportunities": [
+          "Launch model-specific kits for the latest iPhone and Pixel generations, which the brand has lagged by a year",
+          "Add a second supplier in Vietnam to reduce tariff and single-source risk",
+          "Build out the Shopify site with repair guides to capture organic search outside Amazon"
+        ],
+        "transitionPlan": "Two weeks of training on Seller Central, the supplier relationship, and the freight forwarder, with the Amazon brand registry, trademark, and Shopify store transferring at closing. The owner will join the next supplier call to hand off the relationship.",
+        "askingPrice": 38000,
+        "keyFigures": [
+          { "label": "Revenue (TTM)", "value": "$112,000", "source": "Amazon Seller Central payments report, Jan–Dec 2025" },
+          { "label": "Owner earnings (SDE)", "value": "$19,000", "source": "2025 Schedule C with add-backs" },
+          { "label": "Gross margin", "value": "41%", "source": "Supplier invoices and FBA fee reports, 2025" },
+          { "label": "YoY growth", "value": "-14%", "source": "Seller Central business reports, 2024 vs 2025" },
+          { "label": "Asking price", "value": "$38,000", "source": "Seller-set, within Conquire range" }
+        ],
+        "flaggedGaps": [],
+        "sources": [
+          "Amazon Seller Central payments and business reports, 2024–2025",
+          "2025 Schedule C",
+          "Supplier invoices and freight bills, 2025",
+          "Inventory valuation, Aug 2026"
+        ]
+      },
+      "customerProfiles": [
+        "DIY phone owners replacing cracked screens, average order $24",
+        "Small repair shops buying tool sets and adhesive in multi-packs",
+        "Parents and students on Walmart Marketplace seeking cheaper repairs than carriers offer"
+      ],
+      "revenues": [
+        { "year": 2023, "amount": 141000 },
+        { "year": 2024, "amount": 130200 },
+        { "year": 2025, "amount": 112000 }
+      ],
+      "expenses": [
+        { "category": "Landed product cost", "amount": 61000 },
+        { "category": "Amazon referral and FBA fees", "amount": 19400 },
+        { "category": "Inbound freight and duties", "amount": 5800 },
+        { "category": "Sponsored Products ads", "amount": 4900 },
+        { "category": "Inventory software and prep", "amount": 1900 }
+      ],
+      "ownership": "Single owner, 100%",
+      "headwinds": [
+        "Revenue is down 21 percent over two years as lower-priced competitors rank alongside the brand",
+        "Tariff changes on imported tools raised landed cost in 2025",
+        "Amazon storage fees rise sharply for slow-moving model-specific kits"
+      ],
+      "tailwinds": [
+        "Nearly passive at 10 hours a week, which suits a buyer keeping a day job",
+        "Review count and brand registry are hard for new entrants to match",
+        "Right-to-repair legislation keeps DIY search demand growing"
+      ]
+    }
+  },
+  {
+    "id": "tx-nursery-07",
+    "createdAt": "2026-08-28",
+    "teaser": {
+      "category": "eCommerce",
+      "industry": "Plant nursery",
+      "tagline": "Online native-plant nursery shipping Texas-adapted perennials with strong spring repeat demand",
+      "location": { "city": "San Antonio", "state": "TX" },
+      "platform": "WooCommerce",
+      "yearsInBusiness": 3,
+      "reasonForSale": "Health",
+      "revenueRange": "$60K–$70K",
+      "profitRange": "$15K–$20K",
+      "growthTrend": "up",
+      "valuation": {
+        "low": 36000,
+        "high": 52000,
+        "confidence": "Low",
+        "confidenceNote": "WooCommerce order data is self-exported rather than connected, the greenhouse lease is unsigned for 2027, and only two comparable online nurseries could be found."
+      },
+      "metrics": {
+        "revenueTTM": 67000,
+        "grossMarginPct": 55,
+        "sdeMarginPct": 27,
+        "revenueStreams": [
+          { "name": "Web orders", "sharePct": 71 },
+          { "name": "On-site spring plant sales", "sharePct": 19 },
+          { "name": "Landscaper bulk orders", "sharePct": 10 }
+        ],
+        "yoyGrowthPct": 9,
+        "hoursPerWeek": 28
+      },
+      "valueDrivers": [
+        "Spring and fall produce 70 percent of revenue, so cash flow is lumpy",
+        "Live-plant shipping has a 6 percent replacement rate that eats margin",
+        "Greenhouse lease is affordable but must be renewed before closing",
+        "Plant stock on hand is worth roughly $9,000 at cost and is included"
+      ]
+    },
+    "confidential": {
+      "businessName": "Salado Creek Natives",
+      "url": "saladocreeknatives.com",
+      "memo": {
+        "confirmedOn": "2026-09-05",
+        "executiveSummary": "Salado Creek Natives grows and ships Texas native perennials, grasses, and milkweed from a leased 2,400 sq ft greenhouse on the northeast side of San Antonio, selling through a WooCommerce store, two on-site spring sales, and a handful of landscape contractors. 2025 revenue was $67,000, up 9 percent, with owner earnings near $18,100. The owner is stepping back for health reasons and is asking $44,000.",
+        "businessOverview": "The catalog runs about 90 species grown from seed and plugs, with 4-inch and 1-gallon sizes shipped in custom boxes through UPS Ground to Texas, Oklahoma, and Louisiana. The WooCommerce site runs on SiteGround with WooCommerce Shipping and Stripe, and a seasonal helper works 20 hours a week from February through May. The owner propagates, pots, and packs; a second seasonal helper is hired for the two on-site plant sales. Customer email goes through MailerLite to a 3,100-address list.",
+        "industryAndMarket": "San Antonio Water System rebates and the city's drought restrictions have pushed homeowners toward native and drought-tolerant landscaping, and local supply of native plugs is thin. Online plant retail nationally is dominated by a few large shippers, but native-plant buyers prefer regional growers who know what survives a Texas summer.",
+        "growthOpportunities": [
+          "Sell pre-designed native garden kits, which the owner tested in spring 2026 at a 40 percent higher average order",
+          "Add wholesale accounts with the three largest native-plant landscapers in Bexar County",
+          "Open fall shipping to Arizona and New Mexico, where the growing calendar matches"
+        ],
+        "transitionPlan": "The owner will train for six weeks across one full propagation cycle and introduce the buyer to the seed supplier and the two plug growers. The greenhouse landlord has verbally agreed to a two-year renewal; a signed lease is a condition of closing.",
+        "askingPrice": 44000,
+        "keyFigures": [
+          { "label": "Revenue (TTM)", "value": "$67,000", "source": "WooCommerce order export, Jan–Dec 2025" },
+          { "label": "Owner earnings (SDE)", "value": "$18,100", "source": "Seller-prepared P&L, unverified" },
+          { "label": "Gross margin", "value": "55%", "source": "Seller-prepared P&L, unverified" },
+          { "label": "YoY growth", "value": "+9%", "source": "WooCommerce order export, 2024 vs 2025" },
+          { "label": "Asking price", "value": "$44,000", "source": "Seller-set, within Conquire range" }
+        ],
+        "flaggedGaps": [
+          "Greenhouse lease renewal not yet signed",
+          "2025 tax return not uploaded"
+        ],
+        "sources": [
+          "WooCommerce order export, 2024–2025",
+          "Seller-prepared P&L, 2025",
+          "Plant inventory count, Jul 2026"
+        ]
+      },
+      "customerProfiles": [
+        "San Antonio and Austin homeowners replacing lawn with native beds, average order $74",
+        "Repeat spring buyers on the email list, about 30 percent of orders",
+        "Landscape contractors ordering 100-plus 4-inch pots for SAWS rebate projects"
+      ],
+      "revenues": [
+        { "year": 2023, "amount": 50500 },
+        { "year": 2024, "amount": 61500 },
+        { "year": 2025, "amount": 67000 }
+      ],
+      "expenses": [
+        { "category": "Plugs, seed, soil, and pots", "amount": 24600 },
+        { "category": "Shipping and boxes", "amount": 11200 },
+        { "category": "Greenhouse lease and utilities", "amount": 7800 },
+        { "category": "Hosting, plugins, and Stripe fees", "amount": 2400 },
+        { "category": "Seasonal labor", "amount": 2900 }
+      ],
+      "ownership": "Single owner, 100%",
+      "headwinds": [
+        "Summer heat halts shipping from June through August, leaving three months with little revenue",
+        "Live-plant replacements run about 6 percent of orders",
+        "The owner's health has limited propagation in 2026, so fall stock is lighter than usual"
+      ],
+      "tailwinds": [
+        "SAWS landscape rebates were expanded for 2026",
+        "Email list grew 44 percent after a local news feature",
+        "Native-plant demand in Austin and San Antonio outstrips local nursery supply each spring"
+      ]
+    }
+  },
+  {
+    "id": "tx-doggroom-08",
+    "createdAt": "2026-09-02",
+    "teaser": {
+      "category": "Service",
+      "industry": "Mobile dog grooming",
+      "tagline": "Mobile grooming van with 380 recurring clients booked six weeks out",
+      "location": { "city": "Fort Worth", "state": "TX" },
+      "platform": "Booking app",
+      "yearsInBusiness": 5,
+      "reasonForSale": "Retiring",
+      "revenueRange": "$55K–$60K",
+      "profitRange": "$25K–$30K",
+      "growthTrend": "up",
+      "valuation": {
+        "low": 46000,
+        "high": 69000,
+        "confidence": "High",
+        "confidenceNote": "All appointments and payments run through the connected booking platform, the 2025 return reconciles, and mobile-grooming routes are among the most frequently traded small services."
+      },
+      "metrics": {
+        "revenueTTM": 58000,
+        "grossMarginPct": 78,
+        "sdeMarginPct": 44,
+        "revenueStreams": [
+          { "name": "Recurring grooms", "sharePct": 72 },
+          { "name": "One-time grooms", "sharePct": 18 },
+          { "name": "Add-ons and retail", "sharePct": 10 }
+        ],
+        "yoyGrowthPct": 15,
+        "hoursPerWeek": 32
+      },
+      "valueDrivers": [
+        "72 percent of revenue comes from clients on a four- to eight-week recurring schedule",
+        "The 2021 Ford Transit van and grooming build-out are included and lien-free at closing",
+        "Earnings depend on the buyer or a hired groomer having certification and skill",
+        "Service area is concentrated in southwest Fort Worth, which keeps fuel and drive time low"
+      ]
+    },
+    "confidential": {
+      "businessName": "Panther City Paw Spa",
+      "url": "panthercitypawspa.com",
+      "memo": {
+        "confirmedOn": "2026-09-09",
+        "executiveSummary": "Panther City Paw Spa is a single-van mobile grooming business serving Benbrook, Tanglewood, and southwest Fort Worth with 380 recurring clients and a calendar booked about six weeks ahead. 2025 revenue was $58,000, up 15 percent, with owner earnings of roughly $25,500. The owner is retiring after 30 years in grooming and is asking $58,000 including the van.",
+        "businessOverview": "The 2021 Ford Transit is fitted with a Wag'n Tails conversion, a Hanvey tub, and a generator serviced every 200 hours; the owner grooms four to five dogs a day, four days a week. Bookings, reminders, and card payments run through MoeGo, and a part-time bather works two days a week. Pricing starts at $95 for small breeds and $140 for doodles, with add-ons for de-shedding and teeth brushing. A 12-year-old business phone number and a Google Business Profile with 210 reviews transfer with the sale.",
+        "industryAndMarket": "Fort Worth's southwest suburbs have grown quickly and are underserved by mobile groomers; brick-and-mortar shops in the area run two-week waits. Mobile grooming commands a 30 to 40 percent premium over shop pricing because owners pay for convenience and lower stress on the dog.",
+        "growthOpportunities": [
+          "Add a second van and groomer; demand already exceeds capacity with a 40-household waitlist",
+          "Raise base pricing, which has not moved since early 2024",
+          "Offer a monthly membership billed through MoeGo to smooth cash flow"
+        ],
+        "transitionPlan": "The owner will ride along for four weeks to introduce the buyer to every recurring client and hand over MoeGo, the phone number, and the Google profile. The van title transfers free of liens at closing.",
+        "askingPrice": 58000,
+        "keyFigures": [
+          { "label": "Revenue (TTM)", "value": "$58,000", "source": "MoeGo payments report, Jan–Dec 2025" },
+          { "label": "Owner earnings (SDE)", "value": "$25,500", "source": "2025 Schedule C with add-backs" },
+          { "label": "Gross margin", "value": "78%", "source": "2025 Schedule C" },
+          { "label": "YoY growth", "value": "+15%", "source": "MoeGo annual comparison, 2024 vs 2025" },
+          { "label": "Asking price", "value": "$58,000", "source": "Seller-set, within Conquire range" }
+        ],
+        "flaggedGaps": [],
+        "sources": [
+          "MoeGo payments and appointment report, Jan–Dec 2025",
+          "2025 Schedule C",
+          "Van title and maintenance log",
+          "Client list export, Jul 2026"
+        ]
+      },
+      "customerProfiles": [
+        "Households in Benbrook and Tanglewood with doodles and large breeds on a six-week cycle",
+        "Older owners who cannot easily transport dogs to a shop",
+        "New clients from Google reviews and Nextdoor, about eight a month"
+      ],
+      "revenues": [
+        { "year": 2023, "amount": 41000 },
+        { "year": 2024, "amount": 50400 },
+        { "year": 2025, "amount": 58000 }
+      ],
+      "expenses": [
+        { "category": "Van fuel and maintenance", "amount": 8900 },
+        { "category": "Grooming supplies and blades", "amount": 4300 },
+        { "category": "Van and liability insurance", "amount": 4100 },
+        { "category": "MoeGo subscription and card fees", "amount": 2600 },
+        { "category": "Part-time bather", "amount": 9500 },
+        { "category": "Generator and equipment repairs", "amount": 3000 }
+      ],
+      "ownership": "Single owner, 100%",
+      "headwinds": [
+        "The buyer must be a competent groomer or hire one at $25–$30 an hour, which would cut earnings",
+        "Van or generator downtime cancels a full day of revenue",
+        "Summer heat limits grooming to morning slots in July and August"
+      ],
+      "tailwinds": [
+        "A waitlist of 40 households supports a second van",
+        "The doodle and large-breed mix drives a higher average ticket than typical routes",
+        "Reviews and referrals bring in new clients without paid ads"
+      ]
+    }
+  },
+  {
+    "id": "tx-windows-09",
+    "createdAt": "2026-09-06",
+    "teaser": {
+      "category": "Service",
+      "industry": "Residential window cleaning",
+      "tagline": "Residential window-cleaning route with 260 repeat homes in west Austin neighborhoods",
+      "location": { "city": "Austin", "state": "TX" },
+      "platform": "Square",
+      "yearsInBusiness": 7,
+      "reasonForSale": "Going back to school",
+      "revenueRange": "$40K–$45K",
+      "profitRange": "$20K–$22K",
+      "growthTrend": "flat",
+      "valuation": {
+        "low": 32000,
+        "high": 44000,
+        "confidence": "Medium",
+        "confidenceNote": "Square card payments are verified through the connected account, but about a quarter of jobs are paid by check or Zelle and rest on the seller's log."
+      },
+      "metrics": {
+        "revenueTTM": 44000,
+        "grossMarginPct": 82,
+        "sdeMarginPct": 48,
+        "revenueStreams": [
+          { "name": "Recurring residential", "sharePct": 64 },
+          { "name": "One-time residential", "sharePct": 26 },
+          { "name": "Gutter and screen add-ons", "sharePct": 10 }
+        ],
+        "yoyGrowthPct": -2,
+        "hoursPerWeek": 24
+      },
+      "valueDrivers": [
+        "260 homes clean on a six- or twelve-month cycle and are logged in Square",
+        "Revenue has been flat since 2024 while the owner studied part time",
+        "Equipment is simple and the truck is the owner's personal vehicle, not included",
+        "No employees; one 1099 helper is used on two-story homes"
+      ]
+    },
+    "confidential": {
+      "businessName": "Clearview Hill Country Windows",
+      "memo": {
+        "confirmedOn": "2026-09-13",
+        "executiveSummary": "Clearview Hill Country Windows cleans exterior and interior glass for about 260 repeat homes in Westlake, Tarrytown, and Steiner Ranch, plus one-time jobs from Nextdoor and yard signs. 2025 revenue was $44,000, down 2 percent, with owner earnings of roughly $21,100. The owner is returning to school full time and is asking $37,000 for the client list, equipment, and phone number.",
+        "businessOverview": "Jobs are priced per pane, averaging $285 for a two-story exterior-and-interior clean, and scheduled in Square Appointments with reminder texts. The kit includes a 40-foot water-fed pole with a DI tank, Unger squeegees, ladders, and a trailer, all included; the owner drives a personal truck. A 1099 helper joins on two-story and large-lot homes about 30 percent of the time. Marketing is a Google Business Profile with 96 reviews, Nextdoor posts, and lawn signs placed at each job.",
+        "industryAndMarket": "West Austin homes have large glass walls and heavy tree cover that drive frequent cleaning, and homeowners in these zip codes rarely price-shop a trusted service. The area has several multi-crew competitors, but they focus on commercial and new construction and leave the residential repeat market fragmented.",
+        "growthOpportunities": [
+          "Add solar-panel cleaning, which the water-fed pole already supports and which is requested on roughly one in five homes",
+          "Reactivate about 90 lapsed clients from 2023 and 2024 with a text campaign",
+          "Offer prepaid twice-a-year plans to lock in the recurring base"
+        ],
+        "transitionPlan": "The owner will work alongside the buyer for three weeks and personally call the 60 largest-ticket clients to introduce them. The Square account, Google profile, and business phone number transfer at closing, and the helper is willing to continue.",
+        "askingPrice": 37000,
+        "keyFigures": [
+          { "label": "Revenue (TTM)", "value": "$44,000", "source": "Square dashboard export plus seller check and Zelle log, Jan–Dec 2025" },
+          { "label": "Owner earnings (SDE)", "value": "$21,100", "source": "2025 Schedule C with add-backs" },
+          { "label": "Gross margin", "value": "82%", "source": "2025 Schedule C" },
+          { "label": "YoY growth", "value": "-2%", "source": "Square annual comparison and seller log, 2024 vs 2025" },
+          { "label": "Asking price", "value": "$37,000", "source": "Seller-set, within Conquire range" }
+        ],
+        "flaggedGaps": [
+          "Zelle and check payments for 2025 not yet reconciled to bank statements"
+        ],
+        "sources": [
+          "Square dashboard export, Jan–Dec 2025",
+          "2025 Schedule C",
+          "Client list with last-service dates, Jul 2026"
+        ]
+      },
+      "customerProfiles": [
+        "Westlake and Tarrytown homeowners with 40-plus panes cleaned twice a year",
+        "Steiner Ranch households on a once-a-year spring clean",
+        "Realtors ordering pre-listing cleans, about two a month"
+      ],
+      "revenues": [
+        { "year": 2023, "amount": 42500 },
+        { "year": 2024, "amount": 44900 },
+        { "year": 2025, "amount": 44000 }
+      ],
+      "expenses": [
+        { "category": "1099 helper wages", "amount": 9800 },
+        { "category": "Truck fuel and maintenance", "amount": 4600 },
+        { "category": "Cleaning solution, DI resin, and parts", "amount": 2400 },
+        { "category": "Liability insurance and bonding", "amount": 2200 },
+        { "category": "Square fees and scheduling", "amount": 1500 },
+        { "category": "Yard signs and Nextdoor ads", "amount": 2300 }
+      ],
+      "ownership": "Single owner, 100%",
+      "headwinds": [
+        "Revenue has slipped as the owner cut availability for coursework",
+        "Checks and Zelle make a quarter of revenue harder to verify",
+        "Spring pollen and cedar season concentrate demand into a few busy months"
+      ],
+      "tailwinds": [
+        "Google reviews rank the business first for its service area",
+        "Solar-panel cleaning is an easy add-on with the current equipment",
+        "West Austin home values support premium per-pane pricing"
+      ]
+    }
+  },
+  {
+    "id": "tx-pool-10",
+    "createdAt": "2026-09-10",
+    "teaser": {
+      "category": "Service",
+      "industry": "Pool cleaning route",
+      "tagline": "Weekly pool-service route of 38 residential accounts with reconciled monthly billing",
+      "location": { "city": "Houston", "state": "TX" },
+      "platform": "In-person",
+      "yearsInBusiness": 8,
+      "reasonForSale": "Partners going separate ways",
+      "revenueRange": "$70K–$75K",
+      "profitRange": "$30K–$32K",
+      "growthTrend": "up",
+      "valuation": {
+        "low": 70000,
+        "high": 98000,
+        "confidence": "Medium",
+        "confidenceNote": "Monthly invoices are tracked in Jobber and reconcile to bank deposits, but chemical costs are partly estimated and two accounts are billed under a partner's personal name."
+      },
+      "metrics": {
+        "revenueTTM": 72000,
+        "grossMarginPct": 68,
+        "sdeMarginPct": 42,
+        "revenueStreams": [
+          { "name": "Weekly service contracts", "sharePct": 78 },
+          { "name": "Repairs and equipment", "sharePct": 15 },
+          { "name": "Green-to-clean and one-time jobs", "sharePct": 7 }
+        ],
+        "yoyGrowthPct": 7,
+        "hoursPerWeek": 30
+      },
+      "valueDrivers": [
+        "Pool routes in Houston trade near the top of the service range because accounts rarely churn",
+        "38 accounts at an average $123 a month give predictable billing",
+        "Two partners each run a service day; the buyer absorbs both or hires a tech",
+        "Truck and chemical trailer are included; there are no leases"
+      ]
+    },
+    "confidential": {
+      "businessName": "Cypress Bend Pool Care",
+      "memo": {
+        "confirmedOn": "2026-09-19",
+        "executiveSummary": "Cypress Bend Pool Care services 38 residential pools weekly in Cypress, Jersey Village, and Copperfield in northwest Houston, with repairs and green-to-clean jobs on top of the contracts. 2025 revenue was $72,000, up 7 percent, with owner earnings of about $30,200 split between two partners. The partners are going separate ways and are asking $84,000 including the truck and trailer.",
+        "businessOverview": "Each partner runs two route days a week in a 2019 Ram 1500 pulling a chemical trailer, testing water with a Taylor K-2006 kit and logging readings in Jobber, which also invoices customers monthly by card or ACH. Chemicals come from the Pool Corp branch on Highway 290; the business holds a Texas RSP license for repairs and replaces pumps, filters, and salt cells at a 35 percent markup. A part-time tech covers vacation weeks. There is no office; the trailer is stored at one partner's home.",
+        "industryAndMarket": "Northwest Houston has one of the highest pool densities in Texas and a long swim season that keeps weekly service steady from March through November. Larger franchises are buying routes in the area, which supports route valuations but also raises wages for licensed techs.",
+        "growthOpportunities": [
+          "Fill the route to 60 accounts; one tech can comfortably service 15 pools a day",
+          "Sell filter-cleaning and salt-cell service plans as add-ons, currently done ad hoc",
+          "Pursue HOA community pools, which pay $600 to $900 a month per site"
+        ],
+        "transitionPlan": "Both partners will run the route with the buyer for four weeks and introduce every customer in person, then remain reachable by phone for 90 days. The Jobber account, phone number, and Pool Corp wholesale account transfer at closing, and the truck title is lien-free.",
+        "askingPrice": 84000,
+        "keyFigures": [
+          { "label": "Revenue (TTM)", "value": "$72,000", "source": "Jobber invoice report reconciled to bank deposits, Jan–Dec 2025" },
+          { "label": "Owner earnings (SDE)", "value": "$30,200", "source": "2025 Form 1065 with add-backs" },
+          { "label": "Gross margin", "value": "68%", "source": "2025 Form 1065; chemical cost partly estimated" },
+          { "label": "YoY growth", "value": "+7%", "source": "Jobber annual revenue comparison, 2024 vs 2025" },
+          { "label": "Asking price", "value": "$84,000", "source": "Seller-set, within Conquire range" }
+        ],
+        "flaggedGaps": [],
+        "sources": [
+          "Jobber invoice and client report, Jan–Dec 2025",
+          "2025 Form 1065",
+          "Bank deposit summary, 2025",
+          "Truck and trailer titles"
+        ]
+      },
+      "customerProfiles": [
+        "Cypress and Copperfield homeowners on weekly chemical and cleaning service, $110–$140 a month",
+        "Jersey Village households with salt systems needing periodic cell replacement",
+        "Landlords and property managers with rental pools, about five accounts"
+      ],
+      "revenues": [
+        { "year": 2023, "amount": 61000 },
+        { "year": 2024, "amount": 67300 },
+        { "year": 2025, "amount": 72000 }
+      ],
+      "expenses": [
+        { "category": "Chemicals", "amount": 14800 },
+        { "category": "Truck fuel and maintenance", "amount": 7200 },
+        { "category": "Part-time tech", "amount": 11500 },
+        { "category": "Liability insurance", "amount": 3200 },
+        { "category": "Jobber and card fees", "amount": 1900 },
+        { "category": "Repair parts and equipment", "amount": 3100 }
+      ],
+      "ownership": "Two partners, 60/40",
+      "headwinds": [
+        "Replacing two partners' labor with one buyer plus a hired tech will reduce earnings unless the route is filled",
+        "Chlorine and acid prices moved sharply in 2024 and 2025",
+        "Summer storms generate green-pool emergencies that are profitable but unpredictable"
+      ],
+      "tailwinds": [
+        "Route density keeps drive time under 20 minutes between stops",
+        "New subdivisions in Cypress keep adding pools inside the service area",
+        "Franchise acquirers in Houston have set a floor on route prices"
+      ]
+    }
+  },
+  {
+    "id": "tx-kolache-11",
+    "createdAt": "2026-09-14",
+    "teaser": {
+      "category": "Food & Beverage",
+      "industry": "Kolache trailer",
+      "tagline": "Established kolache and breakfast trailer on a high-traffic commuter corner",
+      "location": { "city": "Round Rock", "state": "TX" },
+      "platform": "Square",
+      "yearsInBusiness": 9,
+      "reasonForSale": "Opening a brick-and-mortar bakery",
+      "revenueRange": "$90K–$100K",
+      "profitRange": "$20K–$25K",
+      "growthTrend": "down",
+      "valuation": {
+        "low": 37000,
+        "high": 55000,
+        "confidence": "Low",
+        "confidenceNote": "Square captures card sales only; the seller estimates 30 percent of sales are cash, and no tax return has been uploaded to confirm."
+      },
+      "metrics": {
+        "revenueTTM": 96000,
+        "grossMarginPct": 60,
+        "sdeMarginPct": 24,
+        "revenueStreams": [
+          { "name": "Walk-up trailer sales", "sharePct": 76 },
+          { "name": "Catering and office orders", "sharePct": 18 },
+          { "name": "Saturday farmers market", "sharePct": 6 }
+        ],
+        "yoyGrowthPct": -6,
+        "hoursPerWeek": 45
+      },
+      "valueDrivers": [
+        "Nine years on the same leased lot with a commuter line most weekday mornings",
+        "Revenue dipped 6 percent in 2025 after the owner cut Saturday trailer hours",
+        "Roughly 30 percent cash sales are unverified, which caps confidence",
+        "Trailer, commissary agreement, and recipes transfer; the lot lease is month to month"
+      ]
+    },
+    "confidential": {
+      "businessName": "Brushy Creek Kolache Co.",
+      "url": "brushycreekkolache.com",
+      "memo": {
+        "confirmedOn": "2026-09-24",
+        "executiveSummary": "Brushy Creek Kolache Co. sells sausage, fruit, and cream-cheese kolaches, breakfast tacos, and drip coffee from a 16-foot trailer on a leased corner lot along the Round Rock commuter route into Austin, with catering for offices and a Saturday farmers-market stall. 2025 revenue was $96,000, down 6 percent, with owner earnings of about $23,000. The owner is opening a brick-and-mortar bakery and is asking $46,000 for the trailer, equipment, recipes, and lot lease.",
+        "businessOverview": "Dough is proofed and baked overnight in a rented commissary kitchen and the trailer opens at 6 a.m. Tuesday through Saturday, selling out most weekdays by 10:30. Ingredients come from Restaurant Depot and a Taylor sausage maker, and orders are rung through Square with a kitchen-display tablet. One part-time counter employee works mornings while the owner bakes and serves. Catering orders of 5 to 20 dozen come by phone and through a Square Online form.",
+        "industryAndMarket": "Round Rock's commuter corridor has grown with employers like Dell and convention traffic from Kalahari, and kolaches are a daily Central Texas breakfast habit rather than a novelty. Trailer competition nearby is mostly tacos and coffee; the nearest kolache bakery is a franchise five miles south.",
+        "growthOpportunities": [
+          "Restore Saturday trailer hours, which alone account for most of the 2025 decline",
+          "Add pre-order pickup through Square Online for the 7 to 8 a.m. rush",
+          "Sign standing weekly orders with two office parks that currently order ad hoc"
+        ],
+        "transitionPlan": "The owner will bake alongside the buyer for four weeks, hand over written recipes and proofing schedules, and introduce the commissary operator, the lot landlord, and the sausage supplier. Square, the phone number, and the domain transfer at closing; the counter employee intends to stay.",
+        "askingPrice": 46000,
+        "keyFigures": [
+          { "label": "Revenue (TTM)", "value": "$96,000", "source": "Square dashboard export, Jan–Dec 2025, plus seller cash estimate" },
+          { "label": "Owner earnings (SDE)", "value": "$23,000", "source": "Seller-prepared P&L, unverified" },
+          { "label": "Gross margin", "value": "60%", "source": "Seller-prepared P&L, unverified" },
+          { "label": "YoY growth", "value": "-6%", "source": "Square annual comparison, card sales, 2024 vs 2025" },
+          { "label": "Asking price", "value": "$46,000", "source": "Seller-set, within Conquire range" }
+        ],
+        "flaggedGaps": [
+          "2025 Schedule C not uploaded",
+          "Commissary kitchen agreement not yet provided"
+        ],
+        "sources": [
+          "Square dashboard export, Jan–Dec 2025",
+          "Seller-prepared P&L, 2025",
+          "Trailer title and health permit"
+        ]
+      },
+      "customerProfiles": [
+        "Weekday commuters buying two to four kolaches and coffee before 8 a.m.",
+        "Office managers ordering 5 to 20 dozen for Friday meetings",
+        "Saturday farmers-market families buying mixed dozens"
+      ],
+      "revenues": [
+        { "year": 2023, "amount": 98000 },
+        { "year": 2024, "amount": 102100 },
+        { "year": 2025, "amount": 96000 }
+      ],
+      "expenses": [
+        { "category": "Flour, fillings, and sausage", "amount": 31500 },
+        { "category": "Commissary kitchen rent", "amount": 9600 },
+        { "category": "Lot lease and propane", "amount": 7200 },
+        { "category": "Part-time counter help", "amount": 14800 },
+        { "category": "Square fees and permits", "amount": 3900 },
+        { "category": "Trailer insurance and maintenance", "amount": 5900 }
+      ],
+      "ownership": "Single owner, 100%",
+      "headwinds": [
+        "The owner works 45-hour weeks starting at 3 a.m., which a buyer must be prepared for",
+        "Cash sales cannot be verified before closing",
+        "Flour and sausage costs rose roughly 9 percent in 2025"
+      ],
+      "tailwinds": [
+        "Selling out most weekdays means pricing has room to rise",
+        "The lot landlord has offered a two-year lease at the current rate",
+        "Catering requests grew in 2026 without any outreach"
+      ]
+    }
+  },
+  {
+    "id": "tn-bookkeep-12",
+    "createdAt": "2026-09-18",
+    "teaser": {
+      "category": "Service",
+      "industry": "Bookkeeping for creators",
+      "tagline": "Remote bookkeeping practice serving 31 musicians and content creators on monthly retainers",
+      "location": { "city": "Nashville", "state": "TN" },
+      "platform": "Stripe",
+      "yearsInBusiness": 4,
+      "reasonForSale": "Taking an in-house finance role",
+      "revenueRange": "$50K–$55K",
+      "profitRange": "$25K–$30K",
+      "growthTrend": "flat",
+      "valuation": {
+        "low": 42000,
+        "high": 58000,
+        "confidence": "Low",
+        "confidenceNote": "About half of retainers are paid through the connected Stripe account; the rest arrive by ACH or Zelle and only the seller's spreadsheet supports them."
+      },
+      "metrics": {
+        "revenueTTM": 52000,
+        "grossMarginPct": 88,
+        "sdeMarginPct": 52,
+        "revenueStreams": [
+          { "name": "Monthly retainers", "sharePct": 81 },
+          { "name": "Cleanup and catch-up projects", "sharePct": 13 },
+          { "name": "Tax-prep referral fees", "sharePct": 6 }
+        ],
+        "yoyGrowthPct": 4,
+        "hoursPerWeek": 25
+      },
+      "valueDrivers": [
+        "31 retainer clients averaging $113 a month, with two lost in the past year",
+        "Buyer needs bookkeeping competence; clients expect a QuickBooks ProAdvisor certification",
+        "Half of revenue is not verifiable through Stripe, which pulls confidence down",
+        "Niche positioning around royalties and 1099 income is hard for generalists to copy"
+      ]
+    },
+    "confidential": {
+      "businessName": "Ledger & Lyric Bookkeeping",
+      "url": "ledgerandlyric.com",
+      "memo": {
+        "confirmedOn": "2026-09-27",
+        "executiveSummary": "Ledger & Lyric Bookkeeping is a remote QuickBooks Online practice for working musicians, podcasters, and YouTube creators, most of them in Nashville, with 31 clients on monthly retainers plus cleanup projects. 2025 revenue was $52,000, up 4 percent, with owner earnings of about $27,000. The owner is taking an in-house finance role and is asking $48,000.",
+        "businessOverview": "Clients send receipts through Dext and connect bank feeds to QuickBooks Online; the owner categorizes, reconciles, and delivers a monthly report with a 20-minute call. Royalty statements from ASCAP, BMI, and DistroKid are mapped into a custom chart of accounts the owner built, which transfers with the practice. An overflow contractor handles about 20 percent of monthly closes. Billing runs through Stripe for 16 clients and ACH or Zelle for the rest; two Nashville CPAs refer clients and receive tax-prep handoffs in return.",
+        "industryAndMarket": "Nashville's music economy produces thousands of 1099 earners with irregular royalty and touring income who are underserved by generalist bookkeepers. Creator-economy income keeps growing nationally, and remote delivery means the client base is not limited to Tennessee.",
+        "growthOpportunities": [
+          "Move all clients to Stripe billing and raise the base retainer to $150, which three clients already pay",
+          "Package quarterly estimated-tax planning as a $75 add-on",
+          "Pursue a referral agreement with a Nashville music-management firm the owner has already spoken with"
+        ],
+        "transitionPlan": "The owner will co-deliver two full monthly close cycles with the buyer and introduce every client by video call, then stay available for questions through the January 1099 season. QuickBooks Accountant, Dext, Stripe, and the domain transfer at closing, and both referring CPAs have agreed to meet the buyer.",
+        "askingPrice": 48000,
+        "keyFigures": [
+          { "label": "Revenue (TTM)", "value": "$52,000", "source": "Stripe payouts plus seller billing spreadsheet, Jan–Dec 2025" },
+          { "label": "Owner earnings (SDE)", "value": "$27,000", "source": "Seller-prepared P&L, unverified" },
+          { "label": "Gross margin", "value": "88%", "source": "Seller-prepared P&L, unverified" },
+          { "label": "YoY growth", "value": "+4%", "source": "Seller billing spreadsheet, 2024 vs 2025" },
+          { "label": "Asking price", "value": "$48,000", "source": "Seller-set, within Conquire range" }
+        ],
+        "flaggedGaps": [
+          "2025 Schedule C not uploaded",
+          "Bank statements to support ACH and Zelle receipts not provided"
+        ],
+        "sources": [
+          "Stripe payouts export, Jan–Dec 2025",
+          "Seller billing spreadsheet, 2024–2025",
+          "Client engagement letters, current"
+        ]
+      },
+      "customerProfiles": [
+        "Touring musicians and session players with royalty and 1099 income, $100–$150 a month",
+        "Podcasters and YouTube creators with sponsorship revenue who need clean books for an S-corp",
+        "Small Nashville music-management offices, two clients at $300 a month"
+      ],
+      "revenues": [
+        { "year": 2023, "amount": 44000 },
+        { "year": 2024, "amount": 50000 },
+        { "year": 2025, "amount": 52000 }
+      ],
+      "expenses": [
+        { "category": "Overflow bookkeeping contractor", "amount": 12400 },
+        { "category": "QuickBooks, Dext, and Gusto seats", "amount": 4800 },
+        { "category": "Stripe and payment fees", "amount": 1600 },
+        { "category": "Professional liability insurance", "amount": 1100 },
+        { "category": "Coworking desk", "amount": 3000 },
+        { "category": "Podcast sponsorships and referral lunches", "amount": 2000 }
+      ],
+      "ownership": "Single owner, 100%",
+      "headwinds": [
+        "Clients are loyal to the owner personally and some may leave during transition",
+        "Half the revenue runs outside Stripe and is hard to verify",
+        "Growth slowed to 4 percent after the owner stopped marketing in 2025"
+      ],
+      "tailwinds": [
+        "Retainer churn has stayed under 7 percent a year",
+        "Two CPA referral partners send a steady trickle of new clients",
+        "The royalty chart of accounts is a real asset that generalists lack"
+      ]
+    }
+  },
+  {
+    "id": "ok-bookstore-13",
+    "createdAt": "2026-09-25",
+    "teaser": {
+      "category": "Retail",
+      "industry": "Used books",
+      "tagline": "Neighborhood used bookstore with 1,400 sq ft lease and loyal trade-in base",
+      "location": { "city": "Tulsa", "state": "OK" },
+      "platform": "Square",
+      "yearsInBusiness": 11,
+      "reasonForSale": "Owner turning 70",
+      "revenueRange": "$110K–$120K",
+      "profitRange": "$20K–$25K",
+      "growthTrend": "down",
+      "valuation": {
+        "low": 34000,
+        "high": 49000,
+        "confidence": "Low",
+        "confidenceNote": "Square POS totals are verified, but inventory has not been counted since 2024, the lease amendment is missing, and only two comparable bookstores were found."
+      },
+      "metrics": {
+        "revenueTTM": 118000,
+        "grossMarginPct": 52,
+        "sdeMarginPct": 19,
+        "revenueStreams": [
+          { "name": "In-store book sales", "sharePct": 79 },
+          { "name": "Online sales via AbeBooks and eBay", "sharePct": 14 },
+          { "name": "Events and coffee bar", "sharePct": 7 }
+        ],
+        "yoyGrowthPct": -9,
+        "hoursPerWeek": 44
+      },
+      "valueDrivers": [
+        "Eleven years in the same midtown storefront with a known trade-in program",
+        "Revenue has fallen two years in a row as the owner reduced open hours",
+        "Inventory of roughly 22,000 titles is included but has not been valued since 2024",
+        "Lease at $2,000 a month is below market and runs through mid-2027"
+      ]
+    },
+    "confidential": {
+      "businessName": "Cherry Street Second Edition",
+      "url": "cherrystreetsecondedition.com",
+      "memo": {
+        "confirmedOn": "2026-10-03",
+        "executiveSummary": "Cherry Street Second Edition is an 11-year-old used bookstore on Tulsa's Cherry Street with about 22,000 titles, a trade-in credit program, a small coffee bar, and online sales of collectible and out-of-print titles. 2025 revenue was $118,000, down 9 percent, with owner earnings of about $22,400. The owner is turning 70 and is asking $41,000 for the inventory, fixtures, lease, and name.",
+        "businessOverview": "The store occupies 1,400 sq ft at $2,000 a month on a lease through June 2027, open six days a week with two part-time booksellers covering 40 hours between them. Trade-ins are credited at 25 percent of resale value through Square's customer directory; higher-value titles are listed on AbeBooks and eBay from a back-room desk. A four-seat coffee bar serves drip and pastries from a nearby bakery. Monthly author readings and a book club bring in 30 to 50 people and are promoted on Instagram and a 2,400-address Mailchimp list.",
+        "industryAndMarket": "Tulsa's Cherry Street district draws steady weekend foot traffic from restaurants and the farmers market, and independent bookstores nationally have grown in count since 2019. Used-book margins depend on trade-in flow and curation; the main local competition is a large Gardner's outlet and the online marketplaces.",
+        "growthOpportunities": [
+          "Restore the Sunday and evening hours cut in 2025, which coincide with the revenue decline",
+          "Grow online sales, since the AbeBooks desk lists fewer than 600 of the store's collectible titles",
+          "Expand the coffee bar and events, which carry the highest margin per square foot"
+        ],
+        "transitionPlan": "The owner will work in the store for six weeks to teach buying, pricing, and the AbeBooks workflow, and will introduce the landlord and the bakery supplier. The lease assignment requires landlord consent, which the owner has requested in writing; both booksellers plan to stay.",
+        "askingPrice": 41000,
+        "keyFigures": [
+          { "label": "Revenue (TTM)", "value": "$118,000", "source": "Square POS export, Jan–Dec 2025, plus AbeBooks and eBay statements" },
+          { "label": "Owner earnings (SDE)", "value": "$22,400", "source": "Seller-prepared P&L, unverified" },
+          { "label": "Gross margin", "value": "52%", "source": "Seller-prepared P&L, unverified" },
+          { "label": "YoY growth", "value": "-9%", "source": "Square annual comparison, 2024 vs 2025" },
+          { "label": "Asking price", "value": "$41,000", "source": "Seller-set, within Conquire range" }
+        ],
+        "flaggedGaps": [
+          "2024 lease amendment not uploaded",
+          "Inventory count not updated since 2024"
+        ],
+        "sources": [
+          "Square POS export, Jan–Dec 2025",
+          "AbeBooks and eBay seller statements, 2025",
+          "Seller-prepared P&L, 2025",
+          "Store lease, 2022"
+        ]
+      },
+      "customerProfiles": [
+        "Midtown Tulsa readers trading in paperbacks and buying with store credit",
+        "Collectors buying Oklahoma history and signed first editions online",
+        "Book club and reading-series regulars who also buy coffee and pastries"
+      ],
+      "revenues": [
+        { "year": 2023, "amount": 134000 },
+        { "year": 2024, "amount": 129700 },
+        { "year": 2025, "amount": 118000 }
+      ],
+      "expenses": [
+        { "category": "Inventory purchases and trade-in credit", "amount": 48500 },
+        { "category": "Rent", "amount": 24000 },
+        { "category": "Part-time booksellers", "amount": 13200 },
+        { "category": "Utilities and insurance", "amount": 5400 },
+        { "category": "Square fees and software", "amount": 2700 },
+        { "category": "Events and marketing", "amount": 1800 }
+      ],
+      "ownership": "Single owner, 100%",
+      "headwinds": [
+        "Sales fell 9 percent in 2025 after hours were cut and have not recovered",
+        "The lease ends in June 2027, and the landlord has signaled a rent increase",
+        "Owner earnings assume the buyer works about 44 hours a week on the floor"
+      ],
+      "tailwinds": [
+        "Below-market rent for the next 20 months",
+        "The Cherry Street district continues to add restaurants and foot traffic",
+        "Collectible inventory is under-listed online and could lift margin quickly"
+      ]
+    }
+  },
+  {
+    "id": "co-newsletter-14",
+    "createdAt": "2026-10-02",
+    "teaser": {
+      "category": "Digital",
+      "industry": "Paid newsletter",
+      "tagline": "Paid weekly newsletter tracking Denver-metro property records with 540 paying subscribers",
+      "location": { "city": "Denver", "state": "CO" },
+      "platform": "Stripe",
+      "yearsInBusiness": 3,
+      "reasonForSale": "Moving abroad",
+      "revenueRange": "$18K–$22K",
+      "profitRange": "$7K–$9K",
+      "growthTrend": "up",
+      "valuation": {
+        "low": 12000,
+        "high": 19000,
+        "confidence": "High",
+        "confidenceNote": "Stripe subscription revenue and churn are verified through the connected account, and paid newsletters with public subscriber counts trade often enough to give a tight multiple."
+      },
+      "metrics": {
+        "revenueTTM": 20000,
+        "grossMarginPct": 90,
+        "sdeMarginPct": 40,
+        "revenueStreams": [
+          { "name": "Paid subscriptions", "sharePct": 86 },
+          { "name": "Sponsorships", "sharePct": 14 }
+        ],
+        "yoyGrowthPct": 26,
+        "hoursPerWeek": 8
+      },
+      "valueDrivers": [
+        "86 percent of revenue is recurring subscriptions at $4 a month or $40 a year",
+        "Annual churn of 18 percent is low for a local paid newsletter",
+        "Content depends on a contract researcher who has agreed to continue",
+        "Audience is narrow and local, which limits sponsorship pricing"
+      ]
+    },
+    "confidential": {
+      "businessName": "Front Range Deed Watch",
+      "url": "frontrangedeedwatch.com",
+      "memo": {
+        "confirmedOn": "2026-10-09",
+        "executiveSummary": "Front Range Deed Watch is a weekly paid newsletter that summarizes notable property transfers, permit filings, and zoning actions across Denver, Jefferson, and Arapahoe counties for agents, investors, and curious neighbors. 2025 revenue was $20,000, up 26 percent, with owner earnings of $8,000 after paying a contract researcher. The owner is moving to Portugal and is asking $16,000.",
+        "businessOverview": "Each Thursday issue is built from county assessor and recorder exports, Denver's permit portal, and planning-board agendas, assembled by a part-time researcher in a shared Google Sheet and written up by the owner in about three hours. The newsletter runs on Ghost Pro with Stripe billing, 540 paying subscribers, and a free list of 4,900 that receives a monthly teaser issue. Sponsorships are sold to two title companies and a mortgage broker at $350 per issue slot. The owner spends about eight hours a week in total.",
+        "industryAndMarket": "Denver's housing market generates constant interest in who is buying what, and no local outlet covers property records at the neighborhood level. Paid local newsletters have proven durable in metros of this size, and the subscriber base skews toward agents and investors who expense the cost.",
+        "growthOpportunities": [
+          "Add Boulder and Douglas counties, which readers request most often",
+          "Sell a quarterly data export to brokerages at a higher price point",
+          "Raise the annual price to $50; the current $40 has not changed since launch"
+        ],
+        "transitionPlan": "The owner will co-write four issues with the buyer and document the county data sources, the researcher's workflow, and the sponsorship contacts. Ghost, Stripe, the domain, and the researcher's contract transfer at closing.",
+        "askingPrice": 16000,
+        "keyFigures": [
+          { "label": "Revenue (TTM)", "value": "$20,000", "source": "Stripe payouts, Jan–Dec 2025, plus sponsor invoices" },
+          { "label": "Owner earnings (SDE)", "value": "$8,000", "source": "2025 Schedule C with add-backs" },
+          { "label": "Gross margin", "value": "90%", "source": "2025 Schedule C" },
+          { "label": "YoY growth", "value": "+26%", "source": "Stripe annual revenue comparison, 2024 vs 2025" },
+          { "label": "Asking price", "value": "$16,000", "source": "Seller-set, within Conquire range" }
+        ],
+        "flaggedGaps": [],
+        "sources": [
+          "Stripe payouts and subscription metrics, Jan–Dec 2025",
+          "Ghost member export, Sep 2026",
+          "2025 Schedule C",
+          "Sponsor invoices, 2025"
+        ]
+      },
+      "customerProfiles": [
+        "Denver-metro real estate agents tracking off-market activity, mostly on annual plans",
+        "Small investors and landlords watching permits and zoning changes",
+        "Neighborhood association members curious about development near them"
+      ],
+      "revenues": [
+        { "year": 2023, "amount": 9500 },
+        { "year": 2024, "amount": 15900 },
+        { "year": 2025, "amount": 20000 }
+      ],
+      "expenses": [
+        { "category": "Contract researcher", "amount": 6000 },
+        { "category": "Ghost Pro hosting", "amount": 1200 },
+        { "category": "Stripe fees", "amount": 680 },
+        { "category": "County data and records subscriptions", "amount": 2400 },
+        { "category": "Design and email tools", "amount": 900 },
+        { "category": "Accounting", "amount": 800 }
+      ],
+      "ownership": "Single owner, 100%",
+      "headwinds": [
+        "The owner's writing voice is part of the product and may take readers time to accept",
+        "County data portals change format without notice and break the researcher's workflow",
+        "The audience ceiling is limited by the metro's size"
+      ],
+      "tailwinds": [
+        "Subscriber growth has been steady with zero paid marketing",
+        "Sponsors renewed for 2026 at a 15 percent higher rate",
+        "Two neighboring counties are a low-effort expansion on the same data pipeline"
+      ]
+    }
+  }
+]
