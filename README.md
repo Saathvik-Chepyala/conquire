@@ -1,7 +1,7 @@
 # Conquire — frontend prototype
 
 Clickable, local-only prototype for the ADV 332D pitch. Frontend only: no backend, no real auth, no real AI.
-Spec: `../PRD.md`.
+Spec: `PRD.md`.
 
 ## Run
 
@@ -37,3 +37,7 @@ Edit **`src/data/listings.json`** and save. Nothing else needs to change.
 ## Logo
 
 `public/logo.svg` (wordmark + mark, for slides) and `public/favicon.svg` (mark only). The React version is `src/components/Logo.tsx`.
+
+## Deploy
+
+Pushing to `main` runs `.github/workflows/pages.yml`, which builds with `BASE_PATH=/<repo>/` and publishes `dist/` to GitHub Pages. `404.html` is a copy of `index.html` so deep links like `/buy/tx-candle-01` load on Pages.

@@ -3,7 +3,7 @@ import { resetDemo } from '../lib/storage'
 export function Footer() {
   const onReset = () => {
     resetDemo()
-    window.location.href = '/'
+    window.location.href = import.meta.env.BASE_URL
   }
   return (
     <footer className="footer">
