@@ -1111,3 +1111,18 @@ li {
     padding: 20px;
   }
 }
+
+/* Phone header: keep the nav on one line */
+@media (max-width: 480px) {
+  .header-inner {
+    height: 56px;
+  }
+  .logo-sm .logo-word {
+    font-size: 19px;
+  }
+  .nav a {
+    padding: 6px 9px;
+    font-size: 13px;
+    white-space: nowrap;
+  }
+}

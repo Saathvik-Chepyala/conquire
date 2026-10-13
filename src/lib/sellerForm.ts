@@ -206,6 +206,7 @@ export function buildMemo(form: SellerForm, est: Estimate): MemoDraft {
   const age = form.yearFounded ? Math.max(1, year - num(form.yearFounded)) : null
   const industry = form.industry.trim() || 'small'
   const category = form.category || 'business'
+  const categoryWord = category === 'eCommerce' ? 'eCommerce' : category.toLowerCase()
   const where = [form.city.trim(), form.state.trim()].filter(Boolean).join(', ') || 'Texas'
   const revenue = num(form.revenueTTM)
   const sde = est.sde
@@ -225,9 +226,9 @@ export function buildMemo(form: SellerForm, est: Estimate): MemoDraft {
   const askingPrice = Math.round((est.low + est.high) / 2 / 500) * 500
 
   return {
-    executiveSummary: `${name} is a${age ? ` ${age}-year-old` : ''} ${industry.toLowerCase()} ${category === 'Other' ? '' : category + ' '}business in ${where}, generating ${money(revenue)} in trailing-twelve-month revenue and ${money(sde)} in owner earnings (SDE). ${form.reasonForSale ? `The owner is selling because: ${form.reasonForSale.trim().replace(/\.$/, '')}. ` : ''}Conquire's estimate places the value at ${moneyShort(est.low)} – ${moneyShort(est.high)} with ${est.confidence.toLowerCase()} confidence.`,
+    executiveSummary: `${name} is a${age ? ` ${age}-year-old` : ''} ${industry.toLowerCase()} ${category === 'Other' ? '' : categoryWord + ' '}business in ${where}, generating ${money(revenue)} in trailing-twelve-month revenue and ${money(sde)} in owner earnings (SDE). ${form.reasonForSale ? `Reason for sale: ${form.reasonForSale.trim().replace(/\.$/, '')}. ` : ''}Conquire's estimate places the value at ${moneyShort(est.low)} – ${moneyShort(est.high)} with ${est.confidence.toLowerCase()} confidence.`,
     businessOverview: `${streams.length ? `Revenue comes from ${streams.join(', ')}. ` : ''}Gross margin is ${num(form.grossMarginPct)}% and year-over-year growth is ${signedPct(num(form.yoyGrowthPct))}. The business takes about ${hours || '—'} hours a week to run${form.platform ? ` and operates on ${form.platform}` : ''}. Ownership: ${form.ownership || 'not stated'}.${form.customerProfiles ? ` Typical customers: ${lines(form.customerProfiles).join('; ')}.` : ''}`,
-    industryAndMarket: `${industry} businesses of this size trade on owner earnings rather than revenue. Conquire benchmarks the ${est.multipleLow.toFixed(2)}×–${est.multipleHigh.toFixed(2)}× SDE multiple against BizBuySell Insight Reports and sold-deal data for comparable ${category === 'Other' ? '' : category.toLowerCase() + ' '}businesses.${tail.length ? ` Tailwinds: ${tail.join('; ')}.` : ''}${head.length ? ` Headwinds: ${head.join('; ')}.` : ''}`,
+    industryAndMarket: `${industry} businesses of this size trade on owner earnings rather than revenue. Conquire benchmarks the ${est.multipleLow.toFixed(2)}×–${est.multipleHigh.toFixed(2)}× SDE multiple against BizBuySell Insight Reports and sold-deal data for comparable ${category === 'Other' ? '' : categoryWord + ' '}businesses.${tail.length ? ` Tailwinds: ${tail.join('; ')}.` : ''}${head.length ? ` Headwinds: ${head.join('; ')}.` : ''}`,
     growthOpportunities: growth.length
       ? growth
       : ['Seller has not listed growth opportunities yet (flagged below).'],
